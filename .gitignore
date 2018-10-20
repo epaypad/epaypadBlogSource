@@ -71,7 +71,6 @@ typings/
 .idea/dictionaries
 .idea/
 public/
-.deploy_git/
 
 # Sensitive or high-churn files:
 .idea/**/dataSources/
