@@ -1,8 +1,7 @@
 ---
 layout: _posts
 title: ETC移动发行系统：办理申请
-date: 2018-10-18
-tags:
+date: 2018-10-18 
 ---
 ***
 ## 办理申请
