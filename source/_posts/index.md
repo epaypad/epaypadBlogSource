@@ -29,14 +29,9 @@ toc: true
   
 # 项目现状
 &emsp;&emsp;ETC移动发行系统在自营网点上线后，运行稳定，获得了各界好评。8月仅由自营网点完成4167套卡签办理激活工作，完成充值2924笔，充值金额1645030.00元。 
-<table style = "margin-top:-110px"> 
-  <tr>
-      <td><img src="/pub-images/banli1.png" width="95%" alt="活动现场"/></td>
-      <td><img src="/pub-images/banli2.png" width="95%" alt="现场办理"/></td>
-  </tr>
-</table>
 &emsp;&emsp;目前，已支持兰州银行、甘肃银行、建设银行、邮储银行、农业银行、农信银行、工商银行、中国银行进行业务办理。9月，自营网点、各银行网点完成17203套卡签办理激活工作，充值10694笔，充值金额达6570998.04元。各网点办理量稳步增长。
-
+<img src="/pub-images/jiankong.png" width="95%" alt="办理监控面板"/>
+      
 # 视频预览
 腾讯视频在线查看：<a href="https://v.qq.com/x/page/v0747nb2da6.html" target="_blank">《ETC移动发行系统使用视频教程.mp4》</a>
 <div style="text-align: center;"><iframe align="center" src="https://v.qq.com/txp/iframe/player.html?vid=v0747nb2da6" frameborder="0" width="400" height="300" allowfullscreen="true"></iframe></div>
