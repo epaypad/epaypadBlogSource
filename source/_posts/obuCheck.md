@@ -2,6 +2,8 @@
 title: ETC移动发行系统：卡签检测（标签检测）
 date:  2018-10-12
 toc: true
+keywords: ETC甘肃,甘肃ETC,ETC办理,甘肃紫光,紫光ETC,移动支付,ETC移动,移动ETC,在线充值,ETC办理,卡片办理,OBU办理,OBU激活,ETC手持终端,甘肃ETC办理,甘肃ETC发行,移动发行终端,ETC移动发行系统
+description: 5分钟一站式ETC移动办理，助您秒过高速
 ---
 # 说明
 &emsp;&emsp;通过【标签检测】可查看标签办理信息，用户通过这些信息辅助判断该标签是否办理成功。

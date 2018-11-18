@@ -10,6 +10,8 @@ keywords:
 author: ETC移动发行系统项目部
 language: zh-CN
 timezone:
+# keywords: ETC移动发行系统,移动发行终端,甘肃紫光,移动支付,在线充值,ETC办理,卡片办理,OBU办理,OBU激活,ETC手持终端
+# description: 5分钟一站式ETC移动办理，助您秒过高速
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
@@ -82,3 +84,4 @@ deploy:
   repo: https://epaypad@github.com/epaypad/epaypad.github.io
   branch: master
   message: https://github.com/epaypad/epaypadBlogSource 内容部署
+

@@ -3,6 +3,8 @@ layout: _posts
 title: ETC移动发行系统：卡签检测（标签注销）
 date: 2018-10-11
 toc: true
+keywords: ETC甘肃,甘肃ETC,ETC办理,甘肃紫光,紫光ETC,移动支付,ETC移动,移动ETC,在线充值,ETC办理,卡片办理,OBU办理,OBU激活,ETC手持终端,甘肃ETC办理,甘肃ETC发行,移动发行终端,ETC移动发行系统
+description: 5分钟一站式ETC移动办理，助您秒过高速
 ---
 # 说明
 &emsp;&emsp;标签注销主要用于注销已过期标签和办理失败标签（车牌读取乱码、车牌颜色不符）,方便用户现场标签办理失败后能够快速解决。

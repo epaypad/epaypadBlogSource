@@ -2,6 +2,8 @@
 title: ETC移动发行系统：常见问题汇总
 date: 2018-10-10
 toc: true
+keywords: ETC甘肃,甘肃ETC,ETC办理,甘肃紫光,紫光ETC,移动支付,ETC移动,移动ETC,在线充值,ETC办理,卡片办理,OBU办理,OBU激活,ETC手持终端,甘肃ETC办理,甘肃ETC发行,移动发行终端,ETC移动发行系统
+description: 5分钟一站式ETC移动办理，助您秒过高速
 ---
 # 常见问题汇总
  &emsp;&emsp;常见问题汇总是将ETC移动发行系统使用过程中可能出现的常见问题进行总结并提出了解决方法，以便用户在使用过程中出现问题能够快速解决。

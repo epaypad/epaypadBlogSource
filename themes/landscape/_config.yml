@@ -4,7 +4,7 @@ menu:
     资讯新闻: /archives
     规范&问答: /design
     关于我们: /about
-rss: /atom.xml
+# rss: /atom.xml
 
 # Content
 excerpt_link: Read More

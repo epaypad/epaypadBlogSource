@@ -3,6 +3,8 @@ title: ETC移动发行系统：APP更新操作指南
 date: 2018-10-19
 top: true
 toc: true
+keywords: ETC甘肃,甘肃ETC,ETC办理,甘肃紫光,紫光ETC,移动支付,ETC移动,移动ETC,在线充值,ETC办理,卡片办理,OBU办理,OBU激活,ETC手持终端,甘肃ETC办理,甘肃ETC发行,移动发行终端,ETC移动发行系统
+description: 5分钟一站式ETC移动办理，助您秒过高速
 ---
 > 请务必确保APP运行在最新版本
 
