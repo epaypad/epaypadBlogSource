@@ -15,5 +15,7 @@ description: 5分钟一站式ETC移动办理，助您秒过高速
 &emsp;&emsp;今年以来，我省高管部门积极推进“互联网+ETC”系统建设，目前已在“甘肃高速”APP实现ETC网上预约申办、查询服务功能，在高速公路个别服务区设立了直营网点，投放安装了ETC自动充值机。在此基础上，上线ETC移动发行终端，自营网点和8家合作银行1363个代理网点工作人员可使用该终端为客户提供上门办理服务，让客户足不出户即可享受ETC办理便捷服务。
 
 # 视频预览
-优酷视频在线查看：<a href="https://v.youku.com/v_show/id_XMzcyNTkyNTgwOA==.html?spm=a2h0k.11417342.soresults.dtitle" target="_blank">《ETC移动发行系统宣传视频.mp4》</a>
-<div style="text-align: center;"><iframe align="center" src="http://player.youku.com/embed/XMzcyNTkyNTgwOA==" frameborder="0"  width="400" height="300" allowfullscreen="true"></iframe></div>
+爱奇艺视频在线查看：<a href="http://www.iqiyi.com/w_19s2szr36t.html" target="_blank">《ETC移动发行系统宣传视频.mp4》</a>
+<div style="text-align: center;">
+    <iframe src="http://open.iqiyi.com/developer/player_js/coopPlayerIndex.html?vid=60f5d12b59f1a89fea4447f7a0d4a14d&tvId=27041283209&accessToken=2.f22860a2479ad60d8da7697274de9346&appKey=3955c3425820435e86d0f4cdfe56f5e7&appId=1368&height=100%&width=100%" frameborder="0" allowfullscreen="true" width="100%" height="420" style="max-height:450px;,min-height:200px;"></iframe>
+</div>
