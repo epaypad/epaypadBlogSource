@@ -24,7 +24,7 @@ description: 5分钟一站式ETC移动办理，助您秒过高速
       <td><img src="/pub-images/userCardIssuse2.png" width="55%" alt="办理界面"/></td>
   </tr>
 </table>
-3. <span style="color:red;">自营网点跳过本步骤！</span>拍摄银行卡照片完成后会联网进行银行卡识别，识别失败后请手动输入银行卡号
+3. <span style="color:red;">自营网点跳过本步骤！</span>手动输入银行卡号和确认银行卡卡号
 4. 点击【注册】按钮，完成陇通卡办卡业务
 <table style = "margin-top:-80px"> 
   <tr>
