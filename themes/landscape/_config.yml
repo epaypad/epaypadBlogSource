@@ -4,6 +4,7 @@ menu:
     资讯新闻: /archives
     规范&问答: /design
     关于我们: /about
+    留言: /guestbook
 # rss: /atom.xml
 
 # Content
@@ -40,4 +41,6 @@ fb_app_id:
 # header
 banner_count: 1
 switch_banner: true
+
+
 
