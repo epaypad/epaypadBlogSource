@@ -20,16 +20,16 @@ description: 5分钟一站式ETC移动办理，助您秒过高速
 &emsp;&emsp;将银行陇通卡插入手持机背面卡槽，点击【读卡】按钮，移动手持终端读取陇通卡信息，自动显示车辆信息、用户卡号、车型、卡类型，手动选择办理模式
 <table style = "margin-top:-80px"> 
   <tr>
-      <td><img src="/pub-images/userCardIssuse1.png" width="70%" alt="申请列表"/></td>
-      <td><img src="/pub-images/userCardIssuse2.png" width="55%" alt="办理界面"/></td>
+      <td><img src="/pub-images/userCardIssuse6.png" width="70%" alt="申请列表"/></td>
+      <td><img src="/pub-images/userCardIssuse4.png" width="70%" alt="办理界面"/></td>
   </tr>
 </table>
 3. <span style="color:red;">自营网点跳过本步骤！</span>手动输入银行卡号和确认银行卡卡号
 4. 点击【注册】按钮，完成陇通卡办卡业务
 <table style = "margin-top:-80px"> 
   <tr>
-      <td><img src="/pub-images/userCardIssuse3.png" width="70%" alt="银行卡识别"/></td>
-      <td><img src="/pub-images/userCardIssueSuccess.png" width="70%" alt="办理成功"/></td>
+      <td><img src="/pub-images/userCardIssuse5.png" width="110%" alt="银行卡识别"/></td>
+      <td><img src="/pub-images/userCardIssueSuccess.png" width="67%" alt="办理成功"/></td>
   </tr>
 </table>
   
