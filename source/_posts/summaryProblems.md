@@ -1,4 +1,5 @@
 ---
+layout: _posts
 title: ETC移动发行系统：三代手持问题汇总文档
 date: 2019-10-02
 toc: true
