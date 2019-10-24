@@ -14,29 +14,20 @@ description: 5分钟一站式ETC移动办理，助您秒过高速
 
 # 基本使用
 1. 当选择注销类型为无签注销时，进行【无签注销】操作，只需要用户卡即可
-2. 进行【有签注销】操作，用户需要先读取卡信息，读取标签信息
  <table style = "margin-top:-80px"> 
       <tr>
-          <td><img src="/pub-images/obucancel2.png" width="70%" alt="无签注销"/></td>
-          <td><img src="/pub-images/obucancel3.png" width="70%" alt="有签注销"/></td>
+          <td><img src="/pub-images/obucancel6.png" width="70%" alt="无签注销"/></td>
+          <td><img src="/pub-images/obucancel7.png" width="70%" alt="有签注销"/></td>
       </tr>
   </table>
-3.【有签注销】读取的卡信息和标签信息不一致时，界面会提示，信息一致时可进行一下步操作
-4.【有签注销】点击【注销】按钮，对第一读取标签信息和注销读取标签信息进行了校验,信息不一致以弹出框方式提示用户，信息一致注销成功
-<table style = "margin-top:-80px"> 
-  <tr>
-      <td><img src="/pub-images/obucancel4.png" width="70%" alt="温馨提示"/></td>
-      <td><img src="/pub-images/obucancel5.png" width="70%" alt="温馨提示"/></td>
-  </tr>
-</table>
     
 # 注意事项 
 * 默认的注销类型：【无签注销】
-* 注销类型共有两类：【有签注销】、【无签注销】
+* 注销类型共有一类：【无签注销】
 * 【有签注销】时，请注意卡信息和标签信息必须保持一致
 * 标签读取车牌和车牌颜色信息失败，请进行【无签注销】操作
 * 有签注销一定要注意注销标签远离其他，不能将客户在用的标签注销给客户造成不必要的麻烦
 
-更多故障解决，请参考：[常见故障及其解决方法](/2018/10/10/problems/)
+更多故障解决，请参考：[常见故障及其解决方法](/2019/10/05/problems/)
     
   
