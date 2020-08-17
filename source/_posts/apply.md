@@ -17,7 +17,7 @@ description: 5分钟一站式ETC移动办理，助您秒过高速
   <td><img src="/pub-images/apply-7.png"  width="70%" /><div style="text-align:center;">图二</div></td>
  </table> 
 2. 客户信息
- &emsp;&emsp;拍摄身份照片(有自动识别功能)客户信息分为个人信息和单位信息，当选择个人信息时，输入开户人姓名、开户人电话、开户人地址；当为单位信息时，输入开户人名称、部门/分支机构名称、开户人地址、指定经办人姓名等带*的必填项，点击【下一步】，如图三所示。
+ &emsp;&emsp;拍摄身份照片(有自动识别功能)客户信息分为个人信息和单位信息，当选择个人信息时，输入开户人姓名、开户人电话、开户人地址；当为单位信息时，输入开户人名称、部门/分支机构名称、开户人地址、指定经办人姓名等带*的必填项，点击【下一步】，如图四所示。
 <table style="margin-top: -47px;">
   <td><img src="/pub-images/apply-8.png"  width="70%" /><div style="text-align:center;">图三</div></td>
   <td><img src="/pub-images/apply-9.png"  width="70%" /><div style="text-align:center;">图四</div></td>

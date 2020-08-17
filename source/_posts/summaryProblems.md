@@ -1,4 +1,5 @@
 ---
+layout: _posts
 title: ETC移动发行系：常见问题汇总
 date: 2019-10-02
 toc: true
