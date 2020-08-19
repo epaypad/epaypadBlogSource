@@ -7,7 +7,7 @@ description: 5分钟一站式ETC移动办理，助您秒过高速
 
 # 储值卡注销操作
 &emsp;&emsp;首先打开ETC移动发行系统页面。如图一所示
-1. 登陆账号，在ETC主页面，找到特殊需求，然后点击储蓄卡注销功能。 
+1. 登陆账号，在ETC主页面，找到特殊需求，然后点击储值卡注销功能。 
 <table style="margin-top: -30px;">
  <td><img src="/pub-images/zhuyemian.png"  width="40%" /><div style="text-align:center;">图1</div></td>
 </table>
