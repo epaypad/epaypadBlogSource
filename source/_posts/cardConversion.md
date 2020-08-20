@@ -40,7 +40,16 @@ description: 5分钟一站式ETC移动办理，助您秒过高速
      <td><img src="/pub-images/kaqianchaxun.png"  width="70%" /><div style="text-align:center;">图七</div></td>
      <td><img src="/pub-images/yonghukabanlichenggong.png"  width="70%" /><div style="text-align:center;">图八</div></td>
     </table> 
- 
+    
+# 抽奖页面操作 
+  &emsp;&emsp;ETC移动发行系统主页面,在卡签办理记录输入手机号，即可参与进行抽奖，点击参与。如下图9所示
+   &emsp;&emsp;参与完抽奖，点击充值结果查询入口，提示成功抽奖1个工作日后可查询。如下图10所示
+   &emsp;&emsp;输入车牌号，进行查询，中奖之后，会显示车牌号。充值手机号，充值金额，充值状态等等。如下图11所示
+ <table style="margin-top: -47px;">
+      <td><img src="/pub-images/choujiang-1.png"  width="70%" /><div style="text-align:center;">图九</div></td>
+      <td><img src="/pub-images/choujiang-2.png"  width="70%" /><div style="text-align:center;">图十</div></td>
+      <td><img src="/pub-images/choujiang-3.png"  width="70%" /><div style="text-align:center;">图十一</div></td>
+     </table> 
     
 更多故障解决，请参考：[常见故障及其解决方法](/2020/08/17/problems/)
 
