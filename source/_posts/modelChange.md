@@ -6,7 +6,7 @@ description: 5分钟一站式ETC移动办理，助您秒过高速
 ---
 
 # 重写卡签
-<div style="font-weight:bold;">功能用途：</div></td>&emsp;&emsp;1.解决卡或签显示“未知车型”问题 
+<div style="font-weight:bold;">功能用途：</div>&emsp;&emsp;1.解决卡或签显示“未知车型”问题 
 &emsp;&emsp;2.解决卡签车型不一致问题 
 &emsp;&emsp;3.解决卡签车辆用户类型写入不正确问题 
 &emsp;&emsp;4.重写卡签有效期
