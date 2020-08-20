@@ -6,21 +6,21 @@ description: 5分钟一站式ETC移动办理，助您秒过高速
 ---
 
 # 重写卡签
-<div style="font-weight:bold;">功能用途：</div></td>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;1.解决卡或签显示“未知车型”问题 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2.解决卡签车型不一致问题 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;3.解决卡签车辆用户类型写入不正确问题 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;4.重写卡签有效期
-&emsp;&emsp;特别说明：重写卡签功能操作过程中不要拆卸标签
-&emsp;&emsp;功能操作：【重写卡签】—【读卡】—【写卡】—【读OBU】—【写OBU】          
+<div style="font-weight:bold;">功能用途：</div></td>&emsp;&emsp;1.解决卡或签显示“未知车型”问题 
+&emsp;&emsp;2.解决卡签车型不一致问题 
+&emsp;&emsp;3.解决卡签车辆用户类型写入不正确问题 
+&emsp;&emsp;4.重写卡签有效期
+<div style="font-weight:bold;">特别说明：</div></td>&emsp;&emsp;重写卡签功能操作过程中不要拆卸标签
+<div style="font-weight:bold;">功能操作：</div></td>&emsp;&emsp;【重写卡签】—【读卡】—【写卡】—【读OBU】—【写OBU】          
 <table style="margin-top: -47px;">
  <td><img src="/pub-images/apply-27.png"  width="70%" /><div style="text-align:center;">图1左图</div></td>
  <td><img src="/pub-images/apply-28.png"  width="67%" /><div style="text-align:center;">图1右图</div></td>
 </table>
 
 # 车型变更
-&emsp;&emsp;功能用途：1.	解决“大车小标”、“小车大标”问题 2.解决车卡签注册时车型办理错误的问题
-              特别说明：车型变更功能操作过程中不要拆卸标签
-&emsp;&emsp;功能操作：【读卡】—【选择新车型】—【修改基础信息】—【变更卡车型】—【读OBU】—【变更OBU车型】—【提交数据】   
+<div style="font-weight:bold;">功能用途：</div></td>&emsp;&emsp;1.解决“大车小标”、“小车大标”问题 2.解决车卡签注册时车型办理错误的问题
+ <div style="font-weight:bold;">特别说明：</div></td>&emsp;&emsp;车型变更功能操作过程中不要拆卸标签
+<div style="font-weight:bold;">功能操作：</div></td>&emsp;&emsp;【读卡】—【选择新车型】—【修改基础信息】—【变更卡车型】—【读OBU】—【变更OBU车型】—【提交数据】   
 <table style="margin-top: -47px;">
  <td><img src="/pub-images/apply-29.png"  width="70%" /><div style="text-align:center;">图2左图</div></td>
  <td><img src="/pub-images/apply-30.png"  width="67%" /><div style="text-align:center;">图2右图</div></td>
@@ -55,9 +55,9 @@ description: 5分钟一站式ETC移动办理，助您秒过高速
  
  
 # 标签冻结/解冻
-&emsp;&emsp;功能用途：2019年9月6日之前老系统办理的车辆，车型变更读卡时，系统提示“该车辆标签未在营改增平台冻结请先将标签冻结后再进行车型变更”，则需要使用该功能进行标签冻结
-&emsp;&emsp;功能操作：标签冻结：【输入车牌号、车牌颜色】—【查询】—【冻结】
-          &emsp;&emsp;标签解冻：【输入车牌号、车牌颜色】—【查询】—【解冻】 
+<div style="font-weight:bold;">功能用途：</div></td>&emsp;&emsp;2019年9月6日之前老系统办理的车辆，车型变更读卡时，系统提示“该车辆标签未在营改增平台冻结请先将标签冻结后再进行车型变更”，则需要使用该功能进行标签冻结
+<div style="font-weight:bold;">功能操作：</div></td>&emsp;&emsp;标签冻结：【输入车牌号、车牌颜色】—【查询】—【冻结】
+  &emsp;&emsp;标签解冻：【输入车牌号、车牌颜色】—【查询】—【解冻】 
 <table style="margin-top: -47px;">
 <img src="/pub-images/apply-32.png"  width="35%" /><div style="text-align:center;">图4</div></td>
 </table>

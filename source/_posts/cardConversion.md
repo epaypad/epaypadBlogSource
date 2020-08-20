@@ -1,5 +1,5 @@
 ---
-title: ETC移动发行系统：储蓄卡转记账卡具体说明
+title: ETC移动发行系统：储值卡转记账卡具体说明
 date: 2020-08-17
 keywords: ETC甘肃,甘肃ETC,ETC办理,甘肃紫光,紫光ETC,移动支付,ETC移动,移动ETC,在线充值,ETC办理,卡片办理,OBU办理,OBU激活,ETC手持终端,甘肃ETC办理,甘肃ETC发行,移动发行终端,ETC移动发行系统
 description: 5分钟一站式ETC移动办理，助您秒过高速
@@ -40,15 +40,17 @@ description: 5分钟一站式ETC移动办理，助您秒过高速
     </table>
     
 # 注销储值
+  &emsp;&emsp;ETC移动发行系统主页面，进行卡签办理记录查询，输入车牌号，车牌颜色，用户卡等信息，点击查询。如下图6所示
+   <table style="margin-top: -30px;"> 
+   <td><img src="/pub-images/kaqianchaxun.png"  width="35%" /><div style="text-align:center;">图6</div></td>
+      </table>
+
   &emsp;&emsp;ETC移动发行系统主页面，点击【用户卡办理】进行操作，记账卡进行读卡，显示卡里面的车辆信息，输入相应的卡号信息，点击注册按钮。办理成功。如下图5所示
    <table style="margin-top: -30px;">
    <td><img src="/pub-images/yonghukabanlichenggong.png"  width="35%" /><div style="text-align:center;">图5</div></td>
       </table>
       
-  &emsp;&emsp;ETC移动发行系统主页面，进行卡签办理记录查询，输入车牌号，车牌颜色，用户卡等信息，点击查询。如下图6所示
-   <table style="margin-top: -30px;"> 
-   <td><img src="/pub-images/kaqianchaxun.png"  width="35%" /><div style="text-align:center;">图6</div></td>
-      </table>
+ 
     
 
 
