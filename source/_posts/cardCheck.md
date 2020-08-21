@@ -18,8 +18,8 @@ description: 5分钟一站式ETC移动办理，助您秒过高速
 * 进行读卡操作如果用户卡没有激活,读完卡信息后显示激活卡片按钮
  <table style = "margin-top:-80px"> 
       <tr>
-          <td><img src="/pub-images/cardactivation2.jpg" width="70%" alt="信息展示"/></td>
-          <td><img src="/pub-images/cardactivation3.jpg" width="70%" alt="激活卡片"/></td>
+          <td><img src="/pub-images/obucheck1.png" width="85%" alt="信息展示"/></td>
+          <td><img src="/pub-images/cardactivation3.jpg" width="60%" alt="激活卡片"/></td>
       </tr>
   </table>
 

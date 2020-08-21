@@ -12,8 +12,8 @@ description: 5分钟一站式ETC移动办理，助您秒过高速
 2. 读取标签成功，展示标签信息界面
  <table style = "margin-top:-80px"> 
       <tr>
-          <td><img src="/pub-images/obucheck1.jpg" width="70%" alt="初始界面"/></td>
-          <td><img src="/pub-images/obucheck2.jpg" width="70%" alt="信息展示"/></td>
+          <td><img src="/pub-images/obucheck1.png" width="70%" alt="初始界面"/></td>
+          <td><img src="/pub-images/obucheck2.png" width="70%" alt="信息展示"/></td>
       </tr>
   </table>
 
