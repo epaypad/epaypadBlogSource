@@ -1,6 +1,6 @@
 ---
 title: ETC移动发行系统
-date: 2019-10-18
+date: 2020-08-20
 keywords: ETC甘肃,甘肃ETC,ETC办理,甘肃紫光,紫光ETC,移动支付,ETC移动,移动ETC,在线充值,ETC办理,卡片办理,OBU办理,OBU激活,ETC手持终端,甘肃ETC办理,甘肃ETC发行,移动发行终端,ETC移动发行系统
 description: 5分钟一站式ETC移动办理，助您秒过高速
 ---
@@ -17,6 +17,4 @@ description: 5分钟一站式ETC移动办理，助您秒过高速
 &emsp;&emsp;通过本次交通电子支付主题赛，提升ETC移动发行系统在行业内的知名度，获得交通行业及广大车主的认可、也希望获取战略合作机会及资本支持，为我国的智慧公路 “中国好”创新加油。
 
 爱奇艺视频在线查看：<a href="http://www.iqiyi.com/w_19s2szr36t.html" target="_blank">《ETC移动发行系统宣传视频.mp4》</a>
-<div style="text-align: center;">
-    <iframe src="http://open.iqiyi.com/developer/player_js/coopPlayerIndex.html?vid=fee5b59356fd3185325c2aa0b258ef06&tvId=27064122109&accessToken=2.f22860a2479ad60d8da7697274de9346&appKey=3955c3425820435e86d0f4cdfe56f5e7&appId=1368&height=100%&width=100%" frameborder="0" allowfullscreen="true" width="100%" height="420" style="max-height:450px;,min-height:200px;"></iframe>
-</div>
+
