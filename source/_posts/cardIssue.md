@@ -17,7 +17,7 @@ description: 5分钟一站式ETC移动办理，助您秒过高速
 &emsp;&emsp;将银行陇通卡插入手持机背面卡槽，点击【读卡】按钮，移动手持终端读取陇通卡信息，自动显示车辆信息、用户卡号、车型、卡类型，手动选择办理模式
 <table style = "margin-top:-80px"> 
   <tr>
-      <td><img src="/pub-images/kaqianchaxun.png" width="70%" alt="申请列表"/></td>
+      <td><img src="/pub-images/userCardList.png" width="70%" alt="申请列表"/></td>
       <td><img src="/pub-images/userCardIssuse4.png" width="70%" alt="办理界面"/></td>
   </tr>
 </table>
@@ -36,4 +36,4 @@ description: 5分钟一站式ETC移动办理，助您秒过高速
 * 用户卡办理失败后，进入【卡签检测】-【卡片检测】界面，读卡测试【激活卡片】
 * 建议：办理成功的陇通卡到【卡签检测】-【卡片检测】人工检测是否办理成功
 
-更多故障解决，请参考：[常见故障及其解决方法](/2019/10/05/problems/)
+更多故障解决，请参考：[常见故障及其解决方法](/2020/08/16/problems/)

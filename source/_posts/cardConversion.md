@@ -5,10 +5,10 @@ keywords: ETC甘肃,甘肃ETC,ETC办理,甘肃紫光,紫光ETC,移动支付,ETC�
 description: 5分钟一站式ETC移动办理，助您秒过高速
 ---
 
-# 储值卡注销操作
+# 储值卡转换记账卡操作
 &emsp;&emsp;<div style="f ++6.ont-weight:bold;">首先打开ETC移动发行系统页面。如图一所示</div>
 &emsp;&emsp;<div style="font-weight:bold;">注销方式分为两种，第一种是有卡注销。第二种是无卡注销，办理人员可以根据用户是否有卡进行相应的操作。</div>
-1. 登陆账号，在ETC主页面，找到特殊需求，然后点击储值卡注销功能。
+1. 登陆账号，在ETC主页面，找到特殊需求，然后点击【储值卡注销】功能。
 2. 选择有卡进行注销，进行读卡，显示卡编号，车牌号码，车牌颜色。会自动显示卡里面的退款信息，请网点和银行人员输入相应的客户信息，点击注销按钮。如下图2所示
 
 <table style="margin-top: -47px;">
@@ -17,31 +17,23 @@ description: 5分钟一站式ETC移动办理，助您秒过高速
  </table> 
  
 3.选择无卡进行注销，输入相应的车牌号，车牌颜色，进行查询。显示卡编号，车牌号码，车牌颜色。会自动显示卡里面的退款信息，请网点和银行人员输入相应的客户信息，点击注销按钮。如下图3所示
-4.选择无卡进行注销，相应的信息填写完毕之后，会提示注销保存成功，请去【用户卡办理】新办记账卡。如下图4所示
+4.注销成功。如下图4所示
 
    <table style="margin-top: -47px;">
      <td><img src="/pub-images/wukazhuxiao.png"  width="70%" /><div style="text-align:center;">图三</div></td>
      <td><img src="/pub-images/xinbanyonghuka.png"  width="70%" /><div style="text-align:center;">图四</div></td>
     </table> 
    
-# 注销储值卡新办用户卡详情
-&emsp;&emsp;ETC移动发行系统主页面，点击【用户卡办理】进行操作，记账卡进行读卡，显示卡里面的车辆信息，输入相应的卡号信息，点击注册按钮。办理成功。如下图5所示
-&emsp;&emsp;ETC移动发行系统主页面，进行卡签办理记录查询，输入车牌号，车牌颜色，用户卡等信息，点击查询。如下图6所示
- 
-   <table style="margin-top: -47px;">
-     <td><img src="/pub-images/yonghukabanlichenggong.png"  width="50%" /><div style="text-align:center;">图五</div></td>
-
-    </table> 
-    
-# 注销储值
-  &emsp;&emsp;ETC移动发行系统主页面，进行卡签办理记录查询，输入车牌号，车牌颜色，用户卡等信息，点击查询。如下图7所示
-   &emsp;&emsp;ETC移动发行系统主页面，点击【用户卡办理】进行操作，记账卡进行读卡，显示卡里面的车辆信息，输入相应的卡号信息，点击注册按钮。办理成功。如下图8所示
+# 新办记账卡详情操作步骤
+&emsp;&emsp;1、ETC移动发行系统主页面，点击【用户卡办理】进行操作，输入车牌号，车牌颜色,选择申请来源，点击查询。如下图五所示
+&emsp;&emsp;2、ETC移动发行系统主页面，查询到数据后，直接点击进行详情界面，进行读卡，显示卡里面的车辆信息，输入填写信息，点击注册按钮。办理成功。如下图六所示
 <table style="margin-top: -47px;">
-     <td><img src="/pub-images/kaqianchaxun.png"  width="70%" /><div style="text-align:center;">图七</div></td>
-     <td><img src="/pub-images/yonghukabanlichenggong.png"  width="70%" /><div style="text-align:center;">图八</div></td>
-    </table> 
+  <td><img src="/pub-images/userCardList.png"  width="70%" /><div style="text-align:center;">图五</div></td>
+ <td><img src="/pub-images/yonghukabanlichenggong.png"  width="70%" /><div style="text-align:center;">图六</div></td>
+</table> 
+
     
-# 抽奖页面操作 
+# 抽奖页面操作 （农业银行支持）
   &emsp;&emsp;ETC移动发行系统主页面,在卡签办理记录输入手机号，即可参与进行抽奖，点击参与。如下图9所示
    &emsp;&emsp;参与完抽奖，点击充值结果查询入口，提示成功抽奖1个工作日后可查询。如下图10所示
    &emsp;&emsp;输入车牌号，进行查询，中奖之后，会显示车牌号。充值手机号，充值金额，充值状态等等。如下图11所示
