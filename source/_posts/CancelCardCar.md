@@ -1,0 +1,50 @@
+---
+layout: _posts
+title: ETC移动发行系统：车辆注销和卡注销
+date: 2020-08-18 14:15:45
+toc: true
+keywords: ETC甘肃,甘肃ETC,ETC办理,甘肃紫光,紫光ETC,移动支付,ETC移动,移动ETC,在线充值,ETC办理,卡片办理,OBU办理,OBU激活,ETC手持终端,甘肃ETC办理,甘肃ETC发行,移动发行终端,ETC移动发行系统
+description: 5分钟一站式ETC移动办理，助您秒过高速
+---
+# 说明
+&emsp;&emsp;车辆注销和卡注销是为了让可以节约时间成本，大大提高办公效率，从而让用户体验快速，准确，便捷的服务。
+
+# 基本使用
+&emsp;&emsp;打开ETC发行系统APP主页面，找到查询功能下面的卡/车辆注销，点击卡/车辆注销图标按钮。
+&emsp;&emsp;注销方式分为两种情况：
+&emsp;&emsp; 1）卡注销
+&emsp;&emsp; 2）车辆注销
+&emsp;&emsp; 卡注销和车辆注销查询可以根据车牌号码，车牌颜色，手机号码等。
+# 卡注销具体操作操作
+&emsp;&emsp;第一步，选择注销方式为卡注销，根据客户提供的车牌号码，车牌颜色，或者是手机号码进行查询，出现车辆信息列表。
+&emsp;&emsp;第二步，根据查询的车辆信息，出现车辆列表，点击所查询车辆信息列表，出现该车辆信息的车牌号，车牌颜色，车辆编码，用户编码，ETC卡号，办理时间，办理机构编号，请办理人员仔细核对该车辆信息是否一致。点击【卡注销】按钮。
+<table style = "margin-top:-80px"> 
+  <tr>
+      <td><img src="/pub-images/CardCar1.png" width="80%"  /></td>
+      <td><img src="/pub-images/CardCar2.png" width="80%"  /></td>
+  </tr>
+  </table>
+&emsp;&emsp;第三步，选择注销方式：一般有两种情况，一种是有卡注销方式，第二种是无卡注销方式，默认都是有卡注销，办理人员将卡片插入，点击【读卡】，会根据卡内金额进行计算，在平板上显示卡内金额，请核对是否一样，请办理人员填写退款账户，退款开户人姓名，退款人联系电话，或相应退款银行账户机构，选择注销原因，完成卡注销。
+<table style = "margin-top:-80px"> 
+  <tr>
+      <td><img src="/pub-images/CardCar3.png" width="80%"  /></td>
+      <td><img src="/pub-images/CardCar4.png" width="80%"  /></td>
+  </tr>
+    </table> 
+    
+# 车辆注销具体操作操作
+&emsp;&emsp;第一步，先去特殊车辆里面的标签注销进行标签注销，选择注销类型，默认是无签注销，申请来源默认是移动发行系统，将卡片插入手持机，进行读卡，显示车辆信息和卡号，信息是否一致，点击【注销】按钮，进行标签注销。
+&emsp;&emsp;第二步，选择注销方式为车辆注销，根据客户提供的车牌号码，车牌颜色，或者是手机号码进行查询，出现车辆信息列表。
+<table style = "margin-top:-80px"> 
+  <tr>
+      <td><img src="/pub-images/CardCar5.png" width="80%"  /></td>
+      <td><img src="/pub-images/CardCar6.png" width="80%"  /></td>
+  </tr>
+    </table>
+&emsp;&emsp;第三步，根据查询的车辆信息，出现车辆列表，点击所查询车辆信息列表，出现该车辆信息的车牌号，车牌颜色，车辆编码，用户编码，ETC卡号，办理时间，办理机构编号，请办理人员仔细核对该车辆信息是否一致。点击【车辆注销】按钮。
+<table style = "margin-top:-80px"> 
+  <tr>
+      <td><img src="/pub-images/CardCar7.png" width="80%"  /></td>
+      <td><img src="/pub-images/CardCar8.png" width="80%"  /></td>
+  </tr>
+    </table>
