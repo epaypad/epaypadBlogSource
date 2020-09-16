@@ -10,16 +10,16 @@ description: 5分钟一站式ETC移动办理，助您秒过高速
 &emsp;&emsp;用户账户查询是根据客户办理ETC已成功进行账户查询，方便客户与办理人员进行快速查询消息。
 
 # 基本使用
-<h4>打开ETC发行系统APP主页面，找到记录查询下面的账户查询，点击账户查询。</h4>
+&emsp;&emsp;打开ETC发行系统APP主页面，找到记录查询下面的账户查询，点击账户查询。
 
-<h4>选择输入电话号码点击查询按钮。</h4>
+&emsp;&emsp;选择输入电话号码点击查询按钮。
 <table style = "margin-top:-80px"> 
   <tr>
       <td><img src="/pub-images/pub-images-prcture/problems4.png" width="80%"  alt="图一" /></td>
       <td><img src="/pub-images/pub-images-prcture/problems3.png" width="80%"  alt="图二" /></td>
   </tr>
 </table>
-<h4>输入客户的证件号码或选择证件类型点击查询按钮。</h4>
+&emsp;&emsp;输入客户的证件号码或选择证件类型点击查询按钮。
 
 <table style = "margin-top:-80px"> 
   <tr>
