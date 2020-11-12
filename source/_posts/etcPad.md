@@ -3,6 +3,11 @@ title: ETC移动发行系统
 date: 2020-08-20
 keywords: ETC甘肃,甘肃ETC,ETC办理,甘肃紫光,紫光ETC,移动支付,ETC移动,移动ETC,在线充值,ETC办理,卡片办理,OBU办理,OBU激活,ETC手持终端,甘肃ETC办理,甘肃ETC发行,移动发行终端,ETC移动发行系统
 description: 5分钟一站式ETC移动办理，助您秒过高速
+language: zh-CN
+comments: false
+tags:
+    - 智能
+    - 收费
 ---
 
 &emsp;&emsp;ETC移动发行系统快速采集车主及车辆信息，使用手持终端发行ETC卡及电子标签，在车辆上安装电子标签后，使用手持终端进行激活，完成整个发行流程，并可通过终端实现充值，真正做到移动一站式客户服务。 
