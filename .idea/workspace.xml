@@ -20,12 +20,187 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c4e699e8-5815-467a-822d-1bb32b4f68ad" name="Default Changelist" comment="添加留言">
-      <change beforePath="$PROJECT_DIR$/.deploy_git" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/4G-PASM.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/CancelCardCar.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/Card loss report.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/Customer card supplement.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/accountQuery.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/appUpdate.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/apply.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/cardCheck.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/cardConversion.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/cardIssue.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/cardRecharge_bank.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/cardRecharge_self.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/cardVersion.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/changeBankCard.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/changeUserInformation.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/circleOfDeposit.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/emergencyApply.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/etcPad.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/etcSystem.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/modelChange.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/obuActivation.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/obuCancel.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/obuCheck.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/obuIssue.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/onlineNews.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/problems.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/vehicleUnlock.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/about/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/design/docs/APP更新操作手册.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/design/docs/ETC移动发行系统使用说明书.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/design/docs/ETC移动发行系统培训V1.1.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/design/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/design/self.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/guestbook/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/pub-images/4G_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/pub-images/4G_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/pub-images/CardCar1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/pub-images/CardCar2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/pub-images/CardCar3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/pub-images/CardCar4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/pub-images/CardCar5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/pub-images/CardCar6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/pub-images/Cardloss-images/Card loss1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/pub-images/Cardloss-images/Card loss2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/pub-images/Cardloss-images/Card loss3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/pub-images/Cardloss-images/Card loss4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/pub-images/PASM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/pub-images/SN.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/pub-images/abc-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/pub-images/abc-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/pub-images/about.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/pub-images/apply-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/pub-images/apply-10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/pub-images/apply-11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/pub-images/apply-12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/pub-images/apply-13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/pub-images/apply-14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/pub-images/apply-15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/pub-images/apply-16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/pub-images/apply-17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/pub-images/apply-18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/pub-images/apply-19.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/pub-images/apply-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/pub-images/apply-20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/pub-images/apply-21.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/pub-images/apply-22.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/pub-images/apply-23.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/pub-images/apply-24.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/pub-images/apply-25.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/pub-images/apply-26.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/pub-images/apply-27.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/pub-images/apply-28.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/pub-images/apply-29.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/pub-images/apply-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/pub-images/apply-30.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/pub-images/apply-31.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/pub-images/apply-32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/pub-images/apply-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/pub-images/apply-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/pub-images/apply-6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/pub-images/apply-7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/pub-images/apply-8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/pub-images/apply-9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/pub-images/banli1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/pub-images/banli2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/pub-images/banner1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/pub-images/banner3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/pub-images/card-images/Customer Card1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/pub-images/card-images/Customer Card2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/pub-images/card-images/Customer Card3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/pub-images/card-images/Customer Card4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/pub-images/card-images/Customer Card5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/pub-images/cardactivation2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/pub-images/cardactivation3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/pub-images/cardactivationflow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/pub-images/choujiang-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/pub-images/choujiang-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/pub-images/choujiang-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/pub-images/circleOfDeposit1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/pub-images/circleOfDeposit2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/pub-images/circleOfDeposit3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/pub-images/circleOfDeposit4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/pub-images/circleOfDeposit5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/pub-images/circleOfDeposit6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/pub-images/circleOfDeposit7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/pub-images/circleOfDeposit8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/pub-images/design-images/Top-up.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/pub-images/emergencyApply1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/pub-images/emergencyApply2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/pub-images/emergencyApply3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/pub-images/emergencyApply4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/pub-images/emergencyApply5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/pub-images/epaypad.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/pub-images/etc-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/pub-images/etc-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/pub-images/hardware.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/pub-images/jiankong.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/pub-images/kaqianchaxun.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/pub-images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/pub-images/main.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/pub-images/news-images/ETCappUPdate/appUp1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/pub-images/news-images/ETCappUPdate/appUp2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/pub-images/news-images/ETCappUPdate/appUp3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/pub-images/news-images/ETCappUPdate/appUp4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/pub-images/news-images/etc_pub/ETC_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/pub-images/news-images/etc_pub/ETC_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/pub-images/obuCancelflow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/pub-images/obuIssusflow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/pub-images/obuactication1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/pub-images/obuactication2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/pub-images/obuacticationflow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/pub-images/obuactivation.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/pub-images/obuactivation3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/pub-images/obucancel2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/pub-images/obucancel3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/pub-images/obucancel5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/pub-images/obucancel6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/pub-images/obucancel7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/pub-images/obucheck1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/pub-images/obucheck1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/pub-images/obucheck2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/pub-images/obucheck2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/pub-images/obuissue.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/pub-images/obuissue2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/pub-images/obuisuuse1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/pub-images/pub-images-prcture/problems1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/pub-images/pub-images-prcture/problems2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/pub-images/pub-images-prcture/problems3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/pub-images/pub-images-prcture/problems4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/pub-images/pub-images-prcture/problems5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/pub-images/pub-images-prcture/problems6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/pub-images/pub-images-prcture/problems7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/pub-images/pub-images-prcture/problems8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/pub-images/recharge-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/pub-images/recharge-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/pub-images/recharge-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/pub-images/recharge-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/pub-images/recharge-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/pub-images/userCardIssueSuccess.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/pub-images/userCardIssueflow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/pub-images/userCardIssuse1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/pub-images/userCardIssuse2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/pub-images/userCardIssuse3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/pub-images/userCardIssuse4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/pub-images/userCardIssuse5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/pub-images/userCardIssuse6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/pub-images/userCardList.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/pub-images/vehicle-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/pub-images/vehicle-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/pub-images/vehicle-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/pub-images/vehicle-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/pub-images/vehicle-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/pub-images/wifi_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/pub-images/wifi_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/pub-images/wukazhuxiao.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/pub-images/xinbanyonghuka.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/pub-images/yonghukabanlichenggong.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/pub-images/youkazhuxiao.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/pub-images/zhuyemian.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/tags/index.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.json" beforeDir="false" afterPath="$PROJECT_DIR$/db.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -37,12 +212,6 @@
     <option name="BRANCH" value="master" />
   </component>
   <component name="Git.Settings">
-    <option name="PUSH_TAGS">
-      <GitPushTagMode>
-        <option name="argument" value="--tags" />
-        <option name="title" value="All" />
-      </GitPushTagMode>
-    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1kAaKinzfw8PWixk3vJhhwZ6ORV" />
@@ -60,7 +229,7 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="yarn" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -97,7 +266,7 @@
       <updated>1605145789690</updated>
       <workItem from="1605145790716" duration="2752000" />
       <workItem from="1605148662675" duration="4114000" />
-      <workItem from="1632367475761" duration="5924000" />
+      <workItem from="1632367475761" duration="8744000" />
     </task>
     <task id="LOCAL-00001" summary="添加留言">
       <created>1605147629781</created>
@@ -120,7 +289,14 @@
       <option name="project" value="LOCAL" />
       <updated>1632368087694</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="添加留言">
+      <created>1632380145960</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1632380145960</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -182,9 +358,9 @@
       <path value="$PROJECT_DIR$/themes/Butterfly" />
       <path value="$PROJECT_DIR$/.deploy_git" />
     </ignored-roots>
-    <MESSAGE value="添加留言" />
     <MESSAGE value="用户卡解锁用户卡补办" />
-    <option name="LAST_COMMIT_MESSAGE" value="用户卡解锁用户卡补办" />
+    <MESSAGE value="添加留言" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加留言" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1946" y="115" key="CommitChangelistDialog2" />
