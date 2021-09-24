@@ -104,6 +104,6 @@ theme: Butterfly
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://epaypad@github.com/epaypad/epaypad.github.io
+  repo: git@github.com:epaypad/epaypad.github.io.git
   branch: master
   message: https://github.com/epaypad/epaypadBlogSource 内容部署
