@@ -19,15 +19,8 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c4e699e8-5815-467a-822d-1bb32b4f68ad" name="Default Changelist" comment="添加留言">
-      <change beforePath="$PROJECT_DIR$/.deploy_git" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git" afterDir="false" />
+    <list default="true" id="c4e699e8-5815-467a-822d-1bb32b4f68ad" name="Default Changelist" comment="用户卡解锁用户卡补办">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.json" beforeDir="false" afterPath="$PROJECT_DIR$/db.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/Butterfly" beforeDir="false" afterPath="$PROJECT_DIR$/themes/Butterfly" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -108,7 +101,7 @@
       <updated>1605145789690</updated>
       <workItem from="1605145790716" duration="2752000" />
       <workItem from="1605148662675" duration="4114000" />
-      <workItem from="1632367475761" duration="13475000" />
+      <workItem from="1632367475761" duration="14189000" />
     </task>
     <task id="LOCAL-00001" summary="添加留言">
       <created>1605147629781</created>
@@ -152,7 +145,14 @@
       <option name="project" value="LOCAL" />
       <updated>1632387760819</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="用户卡解锁用户卡补办">
+      <created>1632448839079</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1632448839079</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -214,9 +214,9 @@
       <path value="$PROJECT_DIR$/themes/Butterfly" />
       <path value="$PROJECT_DIR$/.deploy_git" />
     </ignored-roots>
-    <MESSAGE value="用户卡解锁用户卡补办" />
     <MESSAGE value="添加留言" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加留言" />
+    <MESSAGE value="用户卡解锁用户卡补办" />
+    <option name="LAST_COMMIT_MESSAGE" value="用户卡解锁用户卡补办" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1946" y="115" key="CommitChangelistDialog2" />
