@@ -107,5 +107,3 @@ deploy:
   repo: git@github.com:epaypad/epaypad.github.io.git
   branch: master
   message: https://github.com/epaypad/epaypadBlogSource 内容部署
-
-# ssh-keygen -t rsa -C "epaypad@163.com"
