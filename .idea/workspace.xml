@@ -20,9 +20,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c4e699e8-5815-467a-822d-1bb32b4f68ad" name="Default Changelist" comment="用户卡解锁用户卡补办">
+      <change beforePath="$PROJECT_DIR$/.deploy_git" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.json" beforeDir="false" afterPath="$PROJECT_DIR$/db.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/Butterfly" beforeDir="false" afterPath="$PROJECT_DIR$/themes/Butterfly" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -76,19 +79,7 @@
       <recent name="$PROJECT_DIR$/themes/Butterfly/source/js" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration>$USER_HOME$/.subversion</configuration>
   </component>
@@ -101,7 +92,8 @@
       <updated>1605145789690</updated>
       <workItem from="1605145790716" duration="2752000" />
       <workItem from="1605148662675" duration="4114000" />
-      <workItem from="1632367475761" duration="14189000" />
+      <workItem from="1632367475761" duration="14423000" />
+      <workItem from="1634021331777" duration="1002000" />
     </task>
     <task id="LOCAL-00001" summary="添加留言">
       <created>1605147629781</created>
@@ -152,11 +144,18 @@
       <option name="project" value="LOCAL" />
       <updated>1632448839079</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="用户卡解锁用户卡补办">
+      <created>1632449566388</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1632449566388</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -175,7 +174,6 @@
                   </entry>
                 </map>
               </option>
-              <option name="COLUMN_ORDER" />
             </State>
           </value>
         </entry>
@@ -207,30 +205,17 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="LIMIT_HISTORY" value="false" />
     <ignored-roots>
       <path value="$PROJECT_DIR$/themes/Butterfly" />
       <path value="$PROJECT_DIR$/.deploy_git" />
+      <path value="$PROJECT_DIR$/themes/butterfly" />
     </ignored-roots>
     <MESSAGE value="添加留言" />
     <MESSAGE value="用户卡解锁用户卡补办" />
     <option name="LAST_COMMIT_MESSAGE" value="用户卡解锁用户卡补办" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="1946" y="115" key="CommitChangelistDialog2" />
-    <state x="1946" y="115" key="CommitChangelistDialog2/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" />
-    <state x="1824" y="179" key="DiffContextDialog" />
-    <state x="1824" y="179" key="DiffContextDialog/0.23.1440.877/1440.0.1920.1080@1440.0.1920.1080" />
-    <state x="1909" y="179" key="SettingsEditor" />
-    <state x="1909" y="179" key="SettingsEditor/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" />
-    <state x="2000" y="280" key="Vcs.Push.Dialog.v2" />
-    <state x="2000" y="280" key="Vcs.Push.Dialog.v2/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" />
-    <state x="2000" y="280" key="Vcs.Push.Dialog.v2/0.23.1440.877/1440.0.1920.1080@1440.0.1920.1080" />
-    <state x="2213" y="461" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" />
-    <state x="2213" y="461" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" />
-    <state x="2065" y="241" key="search.everywhere.popup" />
-    <state x="2065" y="241" key="search.everywhere.popup/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" />
   </component>
 </project>
