@@ -14,3 +14,7 @@ description: 5分钟一站式ETC移动办理，助您秒过高速
 地址：    中国·甘肃省·兰州市张苏滩村802号
 
 ---
+
+ 
+
+<a href="https://note.youdao.com/yws/api/personal/file/WEB05890e453409922bda8a11425b921f25?method=download&shareKey=90443cd130843ab5d8004a188221df59" width="60%">下载地址</a>

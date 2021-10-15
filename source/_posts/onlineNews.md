@@ -6,6 +6,9 @@ keywords: ETC甘肃,甘肃ETC,ETC办理,甘肃紫光,紫光ETC,移动支付,ETC�
 description: 5分钟一站式ETC移动办理，助您秒过高速
 ---
 
+
+<a href="https://note.youdao.com/yws/api/personal/file/WEB05890e453409922bda8a11425b921f25?method=download&shareKey=90443cd130843ab5d8004a188221df59" width="60%">下载地址</a>
+
 <img src="/pub-images/news-images/etc_pub/ETC_1.png" width="400" height="300"/>
 
 &emsp;&emsp;7月17日上午，省高速公路管理局、中国农业银行甘肃省分行、贵阳货车帮科技公司联合在兰州市天奇物流园举行货车陇通卡及ETC移动发行终端上线启动仪式。由ETC移动发行终端发行的首张ETC陇通卡、农业银行发行的首张联名储值卡现场向用户发放。

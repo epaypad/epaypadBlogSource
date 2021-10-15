@@ -10,6 +10,10 @@ tags:
     - 收费
 ---
 
+
+# <a href="https://note.youdao.com/yws/api/personal/file/WEB05890e453409922bda8a11425b921f25?method=download&shareKey=90443cd130843ab5d8004a188221df59" width="60%">下载地址一</a>
+# <a href="http://cloud.gsunis.net.cn:380/etc250true.apk" width="60%">下载地址二</a>
+
 &emsp;&emsp;ETC移动发行系统快速采集车主及车辆信息，使用手持终端发行ETC卡及电子标签，在车辆上安装电子标签后，使用手持终端进行激活，完成整个发行流程，并可通过终端实现充值，真正做到移动一站式客户服务。 
 
 <img src="/pub-images/etc-1.png" width="auto" alt=""/>
